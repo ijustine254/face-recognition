@@ -1,14 +1,17 @@
 ##	Face-recognition
 
-The script finds a face in an image and draws a rectangle on it. Creates a new file with the same image but with a rectangle drawn on it.
+The script finds faces in an image and draws a rectangle on it. Creates a new file with the same image but with a rectangle drawn on it.
 ####	Install Requirements
 Face recognition
+
 `pip3 install face-recognition`
 
 Pillow
+
 `pip3 install Pillow`
 
 pathlib - pre installed in python 3.4
+
 `pip3 install pathlib`
 
 ####	Install
